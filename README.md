@@ -50,6 +50,7 @@ Esse arquivo representa este autômato:
 ### A fazer
 
 - Interface gráfica;
+- Adicionar comentários em inglês no arquivo-fonte;
 
 # AutomatoFTC - enUS
 Application that builds a finite state automata that verifies if a word belongs to a grammar or not.
@@ -98,3 +99,4 @@ This file represents the follow automata:
 ### TODO
 
 - Graphical User Interface;
+- Add english comments in the source files;
