@@ -3,7 +3,7 @@ Aplicativo que constrói um autômato finito de N estados e verifica se dada uma
 representado pelo autômato.
 
 ### Como usar
-Todas as linhas devem acabar com ponto e vígula e comentários são suportados e devem iniciar com // (dupla contrabarra).
+Todas as linhas devem acabar com ponto e vígula e comentários são suportados e devem iniciar com // (dupla barra).
 
 A primeira linha deve conter todos os estados do autômato, devidadamente nomeados sendo que cada estado deve estar separado
 por um espaço em branco.
