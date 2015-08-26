@@ -1,21 +1,21 @@
 # AutomatoFTC - ptBR
-Aplicativo que constrói um autômato finito de N estados e verifica se dada uma palavra se ela pertence a gramática
+Aplicativo que constrói um autômato finito de N estados e verifica se dada uma palavra ela pertence a gramática
 representado pelo autômato.
 
 ### Como usar
 Todas as linhas devem acabar com ponto e vígula e comentários são suportados e devem iniciar com // (dupla barra).
 
-A primeira linha deve conter todos os estados do autômato, devidadamente nomeados sendo que cada estado deve estar separado
+A primeira linha deve conter todos os estados do autômato, devidamente nomeados sendo que cada estado deve estar separado
 por um espaço em branco.
 
-A segunda linha deve conter o alfabeto o qual deve obecer as mesmas regras de formatação para os estados.
+A segunda linha deve conter o alfabeto o qual deve obedecer as mesmas regras de formatação para os estados.
 
 As próximas linhas devem conter as transições, onde cada transição está em uma linha diferente, sendo que somente a última
-linha das transições deve acabar com ponto e vírgula, todas as outras devem acabar com somente vírgula. Cada linha equivale
-as transições de um estado e eles serão interpretados na ordem que informados, logo a primeira linha contém todas as
+linha das transições deve acabar com ponto e vírgula, todas as outras devem acabar somente com vírgula. Cada linha equivale
+as transições de um estado e eles serão interpretados na ordem que forem informados, logo a primeira linha contém todas as
 transições possíveis para o primeiro estado na ordem que o alfabeto foi informado.
 
-As próximas duas linhas correspondem aos estados inicial e final (pode ser mais de um estado final), nesta ordem.
+As próximas duas linhas correspondem aos estados inicial e final (podendo ser mais de um estado final), nesta ordem.
 Logo após isso, as próximas linhas estão sujeitas as mesmas regras das linhas de transições e devem conter as palavras
 que se deseja testar.
 
